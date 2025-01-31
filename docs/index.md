@@ -1,60 +1,51 @@
 ---
 layout: home
-title: Welcome to My Knowledge Hub
+title: Ласкаво просимо до мого центру знань
 hero:
-  name: "Welcome to My Knowledge Hub"
-  text: "A curated collection of tutorials, guides, and solutions."
-  tagline: "Everything from exercise answers to i3-WM tweaks, device flashing, and pixel art."
+  name: "Ласкаво просимо до мого центру знань"
+  text: "Добірка навчальних матеріалів, посібників та рішень."
+  tagline: "Все – від відповідей на вправи до налаштування i3-WM, прошивки пристроїв та піксельного арту."
   image:
     src: /assets/hero-image.png
-    alt: "Hero Image"
+    alt: "Головне зображення"
   actions:
-    - text: Get Started
+    - text: Розпочати
       link: /guide/
       theme: brand
     - text: GitHub
       link: https://github.com/yourrepo
       theme: alt
 features:
-  - title: 📚 Answers to Exercises
-    details: Step-by-step solutions to various exercises and problems.
-  - title: 💻 i3-WM Setup
-    details: Configure your i3 window manager like a pro with detailed guides.
-  - title: 🔥 Device Flashing
-    details: Flash ROMs, install custom firmware, and troubleshoot your devices.
-  - title: 🎨 Pixel Art
-    details: Learn the fundamentals of pixel art and improve your artistic skills.
-  - title: 🏆 Hall of Fame
-    details: A showcase of achievements, top contributors, and milestones.
+  - title: 📚 Відповіді на вправи
+    details: Покрокові розв’язання різноманітних задач і вправ.
+  - title: 💻 Налаштування i3-WM
+    details: Конфігурація менеджера вікон i3 як у професіоналів.
+  - title: 🔥 Прошивка пристроїв
+    details: Встановлення кастомних прошивок, оновлення ПЗ та виправлення помилок.
+  - title: 🎨 Піксельний арт
+    details: Основи піксельного арту та поради для вдосконалення навичок.
+  - title: 🏆 Зала слави
+    details: Досягнення, кращі учасники та визначні моменти.
   - title: 🐧 Arch Linux
-    details: Tips, tweaks, and in-depth guides for mastering Arch Linux.
-  - title: 📖 Tutorials
-    details: A collection of learning resources across various technical topics.
+    details: Поради, оптимізація та детальні посібники для роботи з Arch Linux.
+  - title: 📖 Навчальні матеріали
+    details: Добірка ресурсів для вивчення різних технічних тем.
 ---
 
-## 🚀 Get Started
+## 🚀 Початок роботи
 
-Welcome to my personal knowledge hub! Here, you'll find tutorials, guides, and solutions on topics I'm passionate about.
+Ласкаво просимо до мого центру знань! Тут ви знайдете навчальні матеріали, посібники та рішення з тем, які мене захоплюють.
 
-Choose a section below to explore:
+Оберіть розділ для перегляду:
 
-- [📚 Answers to Exercises](/exercises/)
-- [💻 i3-WM Setup](/i3-wm/)
-- [🔥 Device Flashing](/flashing/)
-- [🎨 Pixel Art](/pixel-art/)
-- [🏆 Hall of Fame](/hall-of-fame/)
+- [📚 Відповіді на вправи](/exercises/)
+- [💻 Налаштування i3-WM](/i3-wm/)
+- [🔥 Прошивка пристроїв](/flashing/)
+- [🎨 Піксельний арт](/pixel-art/)
+- [🏆 Зала слави](/hall-of-fame/)
 - [🐧 Arch Linux](/arch-linux/)
-- [📖 Tutorials](/tutorials/)
+- [📖 Навчальні матеріали](/tutorials/)
 
 ---
 
-## 📜 Recent Articles
-
-- **[Setting Up i3-WM Like a Pro](/i3-wm/)**
-- **[Flashing Custom ROMs Without Bricking](/flashing/)**
-- **[Pixel Art for Beginners](/pixel-art/)**
-- **[Arch Linux Customization Guide](/arch-linux/)**
-- **[Hall of Fame: Recognizing Top Contributors](/hall-of-fame/)**
-- **[Ultimate Tutorial Collection](/tutorials/)**
-
-Stay tuned for updates and more content! 🎉
+Слідкуйте за оновленнями та новим контентом! 🎉
