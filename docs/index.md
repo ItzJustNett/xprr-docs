@@ -50,11 +50,11 @@ Choose a section below to explore:
 
 ## 📜 Recent Articles
 
-- **[Setting Up i3-WM Like a Pro](/i3-wm/setup)**
-- **[Flashing Custom ROMs Without Bricking](/flashing/custom-rom)**
-- **[Pixel Art for Beginners](/pixel-art/basics)**
-- **[Arch Linux Customization Guide](/arch-linux/customization)**
-- **[Hall of Fame: Recognizing Top Contributors](/hall-of-fame/top-users)**
-- **[Ultimate Tutorial Collection](/tutorials/overview)**
+- **[Setting Up i3-WM Like a Pro](/i3-wm/)**
+- **[Flashing Custom ROMs Without Bricking](/flashing/)**
+- **[Pixel Art for Beginners](/pixel-art/)**
+- **[Arch Linux Customization Guide](/arch-linux/)**
+- **[Hall of Fame: Recognizing Top Contributors](/hall-of-fame/)**
+- **[Ultimate Tutorial Collection](/tutorials/)**
 
 Stay tuned for updates and more content! 🎉
