@@ -3,7 +3,7 @@ layout: home
 
 hero:
   name: Xpr-docs
-  text: Vite & Vue powered static site generator.
+  text: My own documentation
   tagline: Simple, powerful, and performant. Meet the modern SSG framework you've always wanted.
   actions:
     - theme: brand
